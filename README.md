@@ -35,20 +35,20 @@
   ![Python](https://img.shields.io/badge/-Python-blueviolet?style=flat&logo=python&logoColor=007ACC)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-green?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-yellowgreen?style=flat&logo=CSS3&logoColor=1572B6)
+  ![CSS](https://img.shields.io/badge/-CSS-inactive?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-orange?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-red?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-ff69b4?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-9cf?style=flat&logo=react)
+  ![React](https://img.shields.io/badge/-React-green?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-green?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-yellow?style=flat&logo=mongodb)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-lightgrey?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-blue?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-success?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-success?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![PyCharm](https://img.shields.io/badge/-Py%20Charm-green?style=flat&logo=python&logoColor=007ACC)
+  ![PyCharm](https://img.shields.io/badge/-Py%20Charm-ff69b4?style=flat&logo=python&logoColor=007ACC)
 
 
 <br/>
