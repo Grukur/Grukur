@@ -43,7 +43,7 @@
 
 <h3> 📜 &nbsp;Certificate Stack</h3>
 
-- 📑 &nbsp; <a href='https://www.efset.org/cert/HjMFUw'>Certificate in Scrum Entry level</a>
+- 📑 &nbsp; <a href='https://www.efset.org/cert/HjMFUw' target='_blank'>Certificate in Scrum Entry level</a>
 - 📑 &nbsp; Certificate in EF SET C2
 - 📑 &nbsp; Certificate in Python Bootcamp
 - 📑 &nbsp; Certificate in Python Learn by Doing
