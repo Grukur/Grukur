@@ -1,4 +1,8 @@
 
+
+<h2> Hey there! I'm Darold K. Trench.</h2>
+### Certifyng in FullStack JavaScript
+
 ## Skills: 
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)](https://github.com/Ivan270/)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)](https://github.com/Ivan270/)
@@ -16,8 +20,7 @@
 [![Email](https://img.shields.io/badge/ivan270@gmail.com-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:ivan270@gmail.com)
 </br>
 
-<h2> Hey there! I'm Darold K. Trench.</h2>
-### Certifyng in FullStack JavaScript
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -57,12 +60,6 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
-<br/>
-
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
-</a>
 
 <br/>
 
