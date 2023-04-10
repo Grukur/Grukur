@@ -41,6 +41,12 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-45FF4A?style=plastic&logo=visual-studio-code&logoColor=0051FF)
   ![Jupiter Notebook](https://img.shields.io/badge/-Jupiter%20Notebook-FF9300?style=plastic&logo=jupiter-Notebook-&logoColor=000000)
 
+<h3> 📜 &nbsp;Certificate Stack</h3>
+
+- 📑 &nbsp; <a href='https://www.efset.org/cert/HjMFUw'>Certificate in Scrum Entry level</a>
+- 📑 &nbsp; Certificate in EF SET C2
+- 📑 &nbsp; Certificate in Python Bootcamp
+- 📑 &nbsp; Certificate in Python Learn by Doing
 
 <br/>
 
