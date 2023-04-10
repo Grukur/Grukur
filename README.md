@@ -38,8 +38,8 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-202020?style=plastic&logo=github&logoColor=33F703)
   ![Git](https://img.shields.io/badge/-Git-blue?style=plastic&logo=git)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-202020?style=plastic&logo=visual-studio-code&logoColor=33F703)
   ![PyCharm](https://img.shields.io/badge/-Py%20Charm-202020?style=plastic&logo=python&logoColor=33F703)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-202020?style=plastic&logo=visual-studio-code&logoColor=33F703)
   ![Jupiter Notebook](https://img.shields.io/badge/-Jupiter%20Notebook-FF8000?style=plastic&logo=jupiter-Notebook-&logoColor=FF8000)
 
 
