@@ -24,7 +24,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-orange?style=flat&logo=javascript)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-green?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-inactive?style=flat&logo=CSS3&logoColor=1572B6)
+  ![CSS](https://img.shields.io/badge/-CSS-#030303?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-red?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-ff69b4?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
@@ -38,7 +38,7 @@
   ![Git](https://img.shields.io/badge/-Git-blue?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-success?style=flat&logo=github)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-success?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-#030303?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![PyCharm](https://img.shields.io/badge/-Py%20Charm-ff69b4?style=flat&logo=python&logoColor=007ACC)
   ![Jupiter Notebook](https://img.shields.io/badge/-Jupiter%20Notebook-success?style=flat&logo=jupiter-Notebook-&logoColor=007ACC)
 
