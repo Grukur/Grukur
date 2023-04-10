@@ -20,27 +20,27 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-202020?style=flat&logo=python&logoColor=33F703)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-5F5F5F?style=flat&logo=javascript&logoColor=FF8000)
+  ![Python](https://img.shields.io/badge/-Python-202020?style=plastic&logo=python&logoColor=33F703)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-5F5F5F?style=plastic&logo=javascript&logoColor=FF8000)
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-780090?style=flat&logo=HTML5&logoColor=0032FF)
-  ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-red?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-ff69b4?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-  ![Flask](https://img.shields.io/badge/-Flask-green?style=flat&logo=flask)
+  ![HTML5](https://img.shields.io/badge/-HTML5-780090?style=plastic&logo=HTML5&logoColor=0032FF)
+  ![CSS](https://img.shields.io/badge/-CSS-black?style=plastic&logo=CSS3&logoColor=1572B6)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-red?style=plastic&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-ff69b4?style=plastic&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-black?style=plastic&logo=react)
+  ![Flask](https://img.shields.io/badge/-Flask-green?style=plastic&logo=flask)
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-6B0000?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-lightgrey?style=flat&logo=mongodb)
-  ![Pandas](https://img.shields.io/badge/-Pandas-green?style=flat&logo=pandas)
-  ![Numpy](https://img.shields.io/badge/-Numpy-green?style=flat&logo=numpy)
+  ![MySQL](https://img.shields.io/badge/-MySQL-6B0000?style=plastic&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-lightgrey?style=plastic&logo=mongodb)
+  ![Pandas](https://img.shields.io/badge/-Pandas-green?style=plastic&logo=pandas)
+  ![Numpy](https://img.shields.io/badge/-Numpy-green?style=plastic&logo=numpy)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-blue?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-success?style=flat&logo=github)
+  ![Git](https://img.shields.io/badge/-Git-blue?style=plastic&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-success?style=plastic&logo=github)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![PyCharm](https://img.shields.io/badge/-Py%20Charm-202020?style=flat&logo=python&logoColor=33F703)
-  ![Jupiter Notebook](https://img.shields.io/badge/-Jupiter%20Notebook-5F5F5F?style=flat&logo=jupiter-Notebook-&logoColor=FF8000)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=plastic&logo=visual-studio-code&logoColor=007ACC)
+  ![PyCharm](https://img.shields.io/badge/-Py%20Charm-202020?style=plastic&logo=python&logoColor=33F703)
+  ![Jupiter Notebook](https://img.shields.io/badge/-Jupiter%20Notebook-FF8000?style=plastic&logo=jupiter-Notebook-&logoColor=FF8000)
 
 
 <br/>
