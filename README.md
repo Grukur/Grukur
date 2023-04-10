@@ -24,22 +24,22 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-45FF4A?style=plastic&logo=javascript&logoColor=0051FF)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-202020?style=plastic&logo=HTML5&logoColor=33F703)
-  ![CSS](https://img.shields.io/badge/-CSS-45FF4A?style=plastic&logo=CSS3&logoColor=000000)
+  ![CSS](https://img.shields.io/badge/-CSS-45FF4A?style=plastic&logo=CSS3&logoColor=0051FF)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-red?style=plastic&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-ff69b4?style=plastic&logo=node.js)
   ![React](https://img.shields.io/badge/-React-black?style=plastic&logo=react)
   ![Flask](https://img.shields.io/badge/-Flask-green?style=plastic&logo=flask)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-202020?style=plastic&logo=mysql&logoColor=33F703)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-45FF4A?style=plastic&logo=mongodb&logoColor=000000)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-45FF4A?style=plastic&logo=mongodb&logoColor=0051FF)
   ![Pandas](https://img.shields.io/badge/-Pandas-green?style=plastic&logo=pandas)
   ![Numpy](https://img.shields.io/badge/-Numpy-green?style=plastic&logo=numpy)
 - ⚙️ &nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-202020?style=plastic&logo=github&logoColor=33F703)
-  ![Git](https://img.shields.io/badge/-Git-45FF4A?style=plastic&logo=git&logoColor=000000)
+  ![Git](https://img.shields.io/badge/-Git-45FF4A?style=plastic&logo=git&logoColor=0051FF)
 - 🔧 &nbsp;
   ![PyCharm](https://img.shields.io/badge/-Py%20Charm-202020?style=plastic&logo=python&logoColor=33F703)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-45FF4A?style=plastic&logo=visual-studio-code&logoColor=000000)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-45FF4A?style=plastic&logo=visual-studio-code&logoColor=0051FF)
   ![Jupiter Notebook](https://img.shields.io/badge/-Jupiter%20Notebook-FF8000?style=plastic&logo=jupiter-Notebook-&logoColor=FF8000)
 
 
