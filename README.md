@@ -26,9 +26,9 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-202020?style=plastic&logo=HTML5&logoColor=33F703)
   ![CSS](https://img.shields.io/badge/-CSS-45FF4A?style=plastic&logo=CSS3&logoColor=0051FF)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-FF9300?style=plastic&logo=bootstrap&logoColor=000000)
-  ![Node.js](https://img.shields.io/badge/-Node.js-ff69b4?style=plastic&logo=node.js)
+  ![Node.js](https://img.shields.io/badge/-Node.js-green?style=plastic&logo=node.js)
   ![React](https://img.shields.io/badge/-React-black?style=plastic&logo=react)
-  ![Flask](https://img.shields.io/badge/-Flask-green?style=plastic&logo=flask)
+  ![Flask](https://img.shields.io/badge/-Flask-BD00FF?style=plastic&logo=flask&logoColor=000000)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-202020?style=plastic&logo=mysql&logoColor=33F703)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-45FF4A?style=plastic&logo=mongodb&logoColor=0051FF)
