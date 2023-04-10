@@ -43,10 +43,10 @@
 
 <h3> 📜 &nbsp;Certificate Stack</h3>
 
-- 📑 &nbsp; <a href='https://www.efset.org/cert/HjMFUw' target='_blank'>Certificate in Scrum Entry level</a>
-- 📑 &nbsp; Certificate in EF SET C2
-- 📑 &nbsp; Certificate in Python Bootcamp
-- 📑 &nbsp; Certificate in Python Learn by Doing
+- 📑 &nbsp; <a href='[https://www.efset.org/cert/HjMFUw](https://www.credly.com/badges/0bb4c22c-1003-480e-8475-0b02f7751ab8/public_url)' target="_blank" rel="nodollow">Certificate in Scrum Entry level</a>
+- 📑 &nbsp; <a href='https://www.efset.org/cert/HjMFUw' target="_blank" rel="nodollow">Certificate in EF SET C2</a>
+- 📑 &nbsp; <a href='[https://www.efset.org/cert/HjMFUw](https://www.udemy.com/certificate/UC-88e8c1bc-267a-42ff-9f75-0d1c69e631d0/)' target="_blank" rel="nodollow">Certificate in Python Bootcamp</a>
+- 📑 &nbsp; <a href='[https://www.efset.org/cert/HjMFUw](https://www.udemy.com/certificate/UC-0ab04051-29e9-458f-831f-16f992cc3d68/)' target="_blank" rel="nodollow">Certificate in Python Learn by Doing</a>
 
 <br/>
 
