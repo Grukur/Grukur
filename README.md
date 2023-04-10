@@ -1,7 +1,7 @@
 
 
 <h1> Hey there! I'm Darold K. Trench.</h1>
-<h2> Certifyng in FullStack JavaScript </h2>
+<h2> Certifying in FullStack JavaScript </h2>
 
 
 ## Reach me at: 
@@ -12,11 +12,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🤔 &nbsp; Exploring new technologies and developing FullStack solutions.
+- 🎓 &nbsp; Certifying FullStack JavaScript through a scholarship: Talent for Chile.
+- 🌱 &nbsp; Learning more about React, Bootstrap and Data Analysis.
+- ✍️ &nbsp; Pursuing certifications that improve my professional profile.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
