@@ -30,7 +30,7 @@
   ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
   ![Flask](https://img.shields.io/badge/-Flask-green?style=flat&logo=flask)
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-green?style=flat&logo=mysql)
+  ![MySQL](https://img.shields.io/badge/-MySQL-6B0000?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-lightgrey?style=flat&logo=mongodb)
   ![Pandas](https://img.shields.io/badge/-Pandas-green?style=flat&logo=pandas)
   ![Numpy](https://img.shields.io/badge/-Numpy-green?style=flat&logo=numpy)
