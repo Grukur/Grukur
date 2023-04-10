@@ -1,7 +1,7 @@
 
 
-<h2> Hey there! I'm Darold K. Trench.</h2>
-### Certifyng in FullStack JavaScript
+<h1> Hey there! I'm Darold K. Trench.</h1>
+<h2> Certifyng in FullStack JavaScript </h2>
 
 ## Skills: 
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)](https://github.com/Ivan270/)
