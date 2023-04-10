@@ -27,7 +27,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-inactive?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-red?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-ff69b4?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-green?style=flat&logo=react)
+  ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
   ![Flask](https://img.shields.io/badge/-Flask-green?style=flat&logo=flask)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-green?style=flat&logo=mysql)
