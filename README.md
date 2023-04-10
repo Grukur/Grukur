@@ -3,7 +3,7 @@
 <h1> Hey there! I'm Darold K. Trench.</h1>
 
 ## Reach me at: 
-[![Email](https://img.shields.io/badge/darold.trench@gmail.com-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:darold.trench@gmail.com)
+[![Email](https://img.shields.io/badge/darold.python@gmail.com-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:darold.python@gmail.com)
 </br>
 
 
