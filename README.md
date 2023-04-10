@@ -20,7 +20,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-060606?style=flat&logo=python&logoColor=33F703)
+  ![Python](https://img.shields.io/badge/-Python-202020?style=flat&logo=python&logoColor=33F703)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-5F5F5F?style=flat&logo=javascript&logoColor=FF8000)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-780090?style=flat&logo=HTML5&logoColor=0032FF)
@@ -39,8 +39,8 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-success?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![PyCharm](https://img.shields.io/badge/-Py%20Charm-ff69b4?style=flat&logo=python&logoColor=007ACC)
-  ![Jupiter Notebook](https://img.shields.io/badge/-Jupiter%20Notebook-success?style=flat&logo=jupiter-Notebook-&logoColor=007ACC)
+  ![PyCharm](https://img.shields.io/badge/-Py%20Charm-202020?style=flat&logo=python&logoColor=33F703)
+  ![Jupiter Notebook](https://img.shields.io/badge/-Jupiter%20Notebook-5F5F5F?style=flat&logo=jupiter-Notebook-&logoColor=FF8000)
 
 
 <br/>
