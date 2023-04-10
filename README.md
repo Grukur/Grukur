@@ -20,8 +20,8 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-blueviolet?style=flat&logo=python&logoColor=007ACC)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-orange?style=flat&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-060606?style=flat&logo=python&logoColor=33F703)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-5F5F5F?style=flat&logo=javascript&logoColor=FF8000)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-green?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6)
