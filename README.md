@@ -28,15 +28,19 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-red?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-ff69b4?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-green?style=flat&logo=react)
+  ![Flask](https://img.shields.io/badge/-Flask-green?style=flat&logo=flask)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-green?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-lightgrey?style=flat&logo=mongodb)
+  ![Pandas](https://img.shields.io/badge/-Pandas-green?style=flat&logo=pandas)
+  ![Numpy](https://img.shields.io/badge/-Numpy-green?style=flat&logo=numpy)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-blue?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-success?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-success?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![PyCharm](https://img.shields.io/badge/-Py%20Charm-ff69b4?style=flat&logo=python&logoColor=007ACC)
+  ![Jupiter Notebook](https://img.shields.io/badge/-Jupiter%20Notebook-success?style=flat&logo=jupiter-Notebook-&logoColor=007ACC)
 
 
 <br/>
