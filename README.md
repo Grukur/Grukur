@@ -11,7 +11,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing FullStack solutions.
-- 🎓 &nbsp; Certifying FullStack JavaScript through a scholarship: Talent for Chile.
+- 🎓 &nbsp; FullStack Certification in JavaScript through a scholarship in process: Talent for Chile.
 - 🌱 &nbsp; Learning more about React, Bootstrap and Data Analysis.
 - ✍️ &nbsp; Pursuing certifications that improve my professional profile.
 <h3> 🛠 &nbsp;Tech Stack</h3>
