@@ -45,7 +45,7 @@
 - 📑 &nbsp; <a href='https://www.efset.org/cert/HjMFUw' target="_blank" rel="nodollow">Certificate in EF SET C2</a>
 - 📑 &nbsp; <a href='https://www.udemy.com/certificate/UC-88e8c1bc-267a-42ff-9f75-0d1c69e631d0/' target="_blank" rel="nodollow">Certificate in Python Bootcamp</a>
 - 📑 &nbsp; <a href='https://www.udemy.com/certificate/UC-0ab04051-29e9-458f-831f-16f992cc3d68/' target="_blank" rel="nodollow">Certificate in Python Learn by Doing</a>
-- 📑 &nbsp; <a href='https://1drv.ms/b/s!Aloeg922KmGEgbJNVeajwBB90LGNcw?e=vHbV5M' target="_blank" rel="nodollow">Certificate Node.JS with Sequelize</a>
+- 📑 &nbsp; <a href='https://onedrive.live.com/embed?resid=84612AB6DD831E5A%2122861&authkey=!AOdlB8TverB_iqE&em=2' target="_blank" rel="nodollow">Certificate Node.JS with Sequelize</a>
 
 <br/>
 
