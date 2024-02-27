@@ -24,7 +24,7 @@
   ![Java](https://img.shields.io/badge/-Java-green?style=plastic&logo=java)
   ![Node.js](https://img.shields.io/badge/-Node.js-black?style=plastic&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-BD00FF?style=plastic&logo=express&logoColor=000000)
-  ![NestJs](https://img.shields.io/badge/-NestJs-BD00FF?style=plastic&logo=nestJs&logoColor=000000)
+  ![NestJs](https://img.shields.io/badge/-NestJs-0051FF?style=plastic&logo=nestJs&logoColor=45FF4A)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-202020?style=plastic&logo=HTML5&logoColor=33F703)
   ![CSS](https://img.shields.io/badge/-CSS-45FF4A?style=plastic&logo=CSS3&logoColor=0051FF)
