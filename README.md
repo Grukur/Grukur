@@ -57,6 +57,11 @@
 - 📑 &nbsp; <a href='https://www.udemy.com/certificate/UC-88e8c1bc-267a-42ff-9f75-0d1c69e631d0/' target="_blank" rel="nodollow">Certificate in Python Bootcamp</a>
 - 📑 &nbsp; <a href='https://www.udemy.com/certificate/UC-0ab04051-29e9-458f-831f-16f992cc3d68/' target="_blank" rel="nodollow">Certificate in Python Learn by Doing</a>
 - 📑 &nbsp; <a href='https://onedrive.live.com/embed?resid=84612AB6DD831E5A%2122861&authkey=!AOdlB8TverB_iqE&em=2' target="_blank" rel="nodollow">Certificate Node.JS with Sequelize</a>
+- 📑 &nbsp; <a href='https://www.acreditta.com/credential/cab60523-735b-484d-84e4-a52d61d37825?utm_source=copy&resource_type=badge&resource=cab60523-735b-484d-84e4-a52d61d37825' target="_blank" rel="nodollow">Certificate Fullstack Javascript</a>
+- 📑 &nbsp; <a href='https://coursera.org/share/3fce6075f8745e365f1e79bb2ddd29d7' target="_blank" rel="nodollow">Certificate Data Analisis Google</a>
+- 📑 &nbsp; <a href='https://1drv.ms/b/s!Aloeg922KmGEgbZE14ykI9WJi1_n-A?e=1szRcd' target="_blank" rel="nodollow">Certificate Fullstack Tutor</a>
+- 📑 &nbsp; <a href='https://1drv.ms/b/s!Aloeg922KmGEgbQsWSO4p7j-EjmOrg?e=8PxJRK' target="_blank" rel="nodollow">Certificate IA Prompts</a>
+- 📑 &nbsp; <a href='https://learn.mongodb.com/c/ym3NV5feTJmOMWlSX8iQPg' target="_blank" rel="nodollow">Certificate MongoDB DBA</a>
 
 
 <br/>
