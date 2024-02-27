@@ -39,8 +39,9 @@
   ![Mongoose](https://img.shields.io/badge/-Mongoose-black?style=plastic&logo=mongoose)
   ![Sequelize](https://img.shields.io/badge/-Sequelize-BD00FF?style=plastic&logo=sequelize)
 - ⚙️ &nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-202020?style=plastic&logo=github&logoColor=33F703)
   ![Git](https://img.shields.io/badge/-Git-45FF4A?style=plastic&logo=git&logoColor=0051FF)
+  ![GitHub](https://img.shields.io/badge/-GitHub-202020?style=plastic&logo=github&logoColor=33F703)
+  ![GitLab](https://img.shields.io/badge/-GitLab-FF9300?style=plastic&logo=gitlab&logoColor=000000)
 - 🔧 &nbsp;
   ![PyCharm](https://img.shields.io/badge/-Py%20Charm-202020?style=plastic&logo=python&logoColor=33F703)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-45FF4A?style=plastic&logo=visual-studio-code&logoColor=0051FF)
