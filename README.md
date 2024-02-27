@@ -51,6 +51,6 @@
 
 <br/>
 <div align="center">
-![Darold Trench's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grukur&show_icons=true&theme=dark)
+  <img src="https://github-readme-stats.vercel.app/api?username=Grukur&show_icons=true&theme=dark" alt="Darold Trench's GitHub stats">
 </div>
 
