@@ -1,19 +1,22 @@
 
 
-<h1> Hey there! I'm Darold K. Trench.</h1>
+# About Me
 
-## Reach me at: 
-[![Email](https://img.shields.io/badge/darold.python@gmail.com-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:darold.python@gmail.com)
-</br>
+👋 Hi there! I'm Darold K. Trench, a lead backend developer and DBA based in Chile. Welcome to my GitHub profile!
 
+## What I Do
+I specialize in developing backend solutions and managing databases. With my expertise in TypeScript, NestJS, MongoDB, and Mongoose, among others, I build robust and efficient applications that meet business requirements.
 
+## Learning Journey
+I am currently expanding my skillset by pursuing a Java Bootcamp focused on Spring Boot. This program enables me to enhance my knowledge of Java and develop scalable and secure applications using Spring Boot framework.
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+## Teaching Experience
+In addition to my professional development, I am also a tutor in a FullStack JavaScript Bootcamp. Sharing my knowledge and guiding aspiring developers on their learning journey is something I'm passionate about.
 
-- 🤔 &nbsp; Developing FullStack solutions and .
-- 🎓 &nbsp; FullStack JavaScript Certification in process: Talent for Chile.
-- 🌱 &nbsp; Learning more about React, Bootstrap and Data Analysis.
-- ✍️ &nbsp; Pursuing certifications that improve my professional profile.
+## Certifications
+I actively pursue certifications that further strengthen my professional profile and expertise. These certifications validate my skills and demonstrate my commitment to continuous growth in the field of software development.
+
+Thank you for visiting my GitHub profile. Feel free to explore my repositories and projects. If you have any questions or collaboration opportunities, please reach out to me. Let's create amazing solutions together!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
