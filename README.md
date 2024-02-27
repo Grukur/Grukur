@@ -50,6 +50,6 @@
 - 📑 &nbsp; <a href='https://onedrive.live.com/embed?resid=84612AB6DD831E5A%2122861&authkey=!AOdlB8TverB_iqE&em=2' target="_blank" rel="nodollow">Certificate Node.JS with Sequelize</a>
 
 <br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grukur&layout=compact&bg_color=DEG,bfa58f,bfa996,c0b3a9,c1bcb9)
-
+ <!--START_SECTION:waka-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grukur&layout=compact&bg_color=DEG,FF0000,00FF00,0000FF)
+ <!--END_SECTION:waka-->
