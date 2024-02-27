@@ -51,5 +51,5 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabel-de-la-Cuadra&layout=compact&bg_color=DEG,bfa58f,bfa996,c0b3a9,c1bcb9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grukur&layout=compact&bg_color=DEG,bfa58f,bfa996,c0b3a9,c1bcb9)
 
