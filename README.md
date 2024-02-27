@@ -20,7 +20,7 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-202020?style=plastic&logo=python&logoColor=33F703)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-45FF4A?style=plastic&logo=javascript&logoColor=0051FF)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-45FF4A?style=plastic&logo=javascript&logoColor=0051FF)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-FF9300?style=plastic&logo=javascript&logoColor=0051FF)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-202020?style=plastic&logo=HTML5&logoColor=33F703)
   ![CSS](https://img.shields.io/badge/-CSS-45FF4A?style=plastic&logo=CSS3&logoColor=0051FF)
