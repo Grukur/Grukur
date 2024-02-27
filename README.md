@@ -50,7 +50,7 @@
 <h3> 📜 &nbsp;Certificate Stack</h3>
 
 <div style="display: flex">
-  <div style="flex: 50%;">    
+  <div>    
     - 📑 &nbsp; <a href='https://www.credly.com/badges/0bb4c22c-1003-480e-8475-0b02f7751ab8/public_url' target="_blank" rel="nodollow">Certificate in Scrum Entry level</a>
     - 📑 &nbsp; <a href='https://www.efset.org/cert/HjMFUw' target="_blank" rel="nodollow">Certificate in EF SET C2</a>
     - 📑 &nbsp; <a href='https://1drv.ms/b/s!Aloeg922KmGEgbQsWSO4p7j-EjmOrg?e=ADXpEh' target="_blank" rel="nodollow">Prompt Artificial Intelligence (AI) Applications</a>
