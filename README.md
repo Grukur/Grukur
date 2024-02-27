@@ -30,7 +30,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-45FF4A?style=plastic&logo=CSS3&logoColor=0051FF)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-FF9300?style=plastic&logo=bootstrap&logoColor=000000)
   ![React](https://img.shields.io/badge/-React-green?style=plastic&logo=react)
-  ![Flask](https://img.shields.io/badge/-Flask-BD00FF?style=plastic&logo=flask&logoColor=000000)
+  ![Flask](https://img.shields.io/badge/-Flask-black?style=plastic&logo=flask)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-202020?style=plastic&logo=mysql&logoColor=33F703)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-45FF4A?style=plastic&logo=mongodb&logoColor=0051FF)
@@ -39,8 +39,8 @@
   ![Mongoose](https://img.shields.io/badge/-Mongoose-black?style=plastic&logo=mongoose)
   ![Sequelize](https://img.shields.io/badge/-Sequelize-BD00FF?style=plastic&logo=sequelize)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-45FF4A?style=plastic&logo=git&logoColor=0051FF)
-  ![GitHub](https://img.shields.io/badge/-GitHub-202020?style=plastic&logo=github&logoColor=33F703)
+  ![Git](https://img.shields.io/badge/-Git-202020?style=plastic&logo=git&logoColor=33F703)
+  ![GitHub](https://img.shields.io/badge/-GitHub-45FF4A?style=plastic&logo=github&logoColor=0051FF)
   ![GitLab](https://img.shields.io/badge/-GitLab-FF9300?style=plastic&logo=gitlab&logoColor=000000)
 - 🔧 &nbsp;
   ![PyCharm](https://img.shields.io/badge/-Py%20Charm-202020?style=plastic&logo=python&logoColor=33F703)
