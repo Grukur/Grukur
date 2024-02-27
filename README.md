@@ -14,18 +14,13 @@
 - 🎓 &nbsp; FullStack JavaScript Certification in process: Talent for Chile.
 - 🌱 &nbsp; Learning more about React, Bootstrap and Data Analysis.
 - ✍️ &nbsp; Pursuing certifications that improve my professional profile.
-<h3> 🛠 &nbsp;Tech Stack</h3>
 
-<p align="left">
-<img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-<img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-<img alt="JAVASCRIPT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img alt="JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-</p>
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-202020?style=plastic&logo=python&logoColor=33F703)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-45FF4A?style=plastic&logo=javascript&logoColor=0051FF)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-45FF4A?style=plastic&logo=javascript&logoColor=0051FF)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-202020?style=plastic&logo=HTML5&logoColor=33F703)
   ![CSS](https://img.shields.io/badge/-CSS-45FF4A?style=plastic&logo=CSS3&logoColor=0051FF)
