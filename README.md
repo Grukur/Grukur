@@ -50,6 +50,7 @@
 - 📑 &nbsp; <a href='https://onedrive.live.com/embed?resid=84612AB6DD831E5A%2122861&authkey=!AOdlB8TverB_iqE&em=2' target="_blank" rel="nodollow">Certificate Node.JS with Sequelize</a>
 
 <br/>
-
+<div style="text-center">
 ![Darold Trench's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grukur&show_icons=true&theme=dark)
+</div>
 
