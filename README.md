@@ -51,5 +51,5 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grukur&layout=compact&bg_color=DEG,FF0000,00FF00,0000FF)
+[![Darold Trench's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grukur)](https://github.com/Grukur/github-readme-stats)
 
